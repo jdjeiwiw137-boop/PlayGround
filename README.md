@@ -16,3 +16,13 @@
 - 👤 [Explore the creator's projects](https://go.ondev.store/jdjeiwiw137-boop).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
+
+## Last Light
+
+A bite-sized, mobile-friendly 2D survival game. Hold out through escalating waves, collect salvage, and choose a field upgrade between rounds.
+
+- **Touch:** move with the left-side virtual stick; hold **FIRE** to auto-aim at the nearest enemy.
+- **Desktop:** move with **WASD** or the arrow keys; hold **Space** or the mouse button to fire.
+- Tap/click **Ⅱ** or press **P** / **Escape** to pause.
+
+Open `index.html` in a browser to play.
